@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 26 19:29:57 2018
-
-@author: Madhan
-"""
 
 from zipfile import ZipFile
 import numpy as np
